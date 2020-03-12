@@ -1,4 +1,4 @@
-package com.test.springbootapirest.models.dao;
+package com.test.springbootbackendapirest.models.dao;
 
 import org.springframework.data.repository.CrudRepository;
 
